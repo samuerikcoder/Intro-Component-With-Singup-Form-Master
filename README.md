@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click here]()
+- Solution URL: [click here](https://intro-component-with-singup-form.netlify.app/)
 - Live Site URL: [click here]()
 
 ## My process
@@ -71,7 +71,7 @@ In the next few codes I intend to explore more concepts of the flex box and the 
 
 - [Project Structure](https://youtu.be/B2WL6KkqhLQ) - This helped me with Project planning, flex-box, grid container, responsiveness and css variables. I really liked this pattern and will use it going forward.
 - [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html) - This helped me get a preview of the shadows I would use on the components.
-- [Scrren Only Clas (.'sr-only')](https://kittygiraudel.com/snippets/sr-only-class/) - I used the css rules indicated in this article to ensure accessibility on the site
+- [Screen Only Clas (.'sr-only')](https://kittygiraudel.com/snippets/sr-only-class/) - I used the css rules indicated in this article to ensure accessibility on the site
 
 ## Author
 
